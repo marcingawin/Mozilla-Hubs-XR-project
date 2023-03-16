@@ -1,0 +1,3 @@
+This is the first line of the project
+Mozilla Hubs
+Extended Reality
